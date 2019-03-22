@@ -2,6 +2,8 @@
 
 Add shortcuts for media keys (for keyboards that have no media keys).
 
+You need [AutoHotKey](https://www.autohotkey.com) to use the .ahk file, or just simply download & run the .exe file.
+
 # Default shortcuts
 
 Previous Song: <kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>Left</kbd>
